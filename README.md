@@ -1,11 +1,2 @@
 # 24BDA70085_DBMS_PRACTICAL
-- [ ] experiment 1
-- [ ] experiment 2
-- [ ] experiment 3
-- [ ] experiment 4
-- [ ] experiment 5
-- [ ] experiment 6
-- [ ] experiment 7
-- [ ] experiment 8
-- [ ] experiment 9
-- [ ] experiment 10
+* [Experiment 1](/experiment_1/exp_1.sql)
